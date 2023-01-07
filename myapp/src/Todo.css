@@ -1,0 +1,138 @@
+
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    font-family:'Josefin Sans';
+    border-radius:6px;
+    }
+    
+    
+    .text-container{
+    border: 1px solid black;
+    text-align: center;
+    background-color: #1c1c1c;
+    color: white;
+      
+    }
+    
+
+    img{
+        height:100px;
+        width: 100px;
+        position: relative;
+        margin: 0%;
+        padding: 0%;
+        top:60px;
+    }
+
+
+    
+    .inner-border{
+    border: 1px solid white;
+    margin-top: 25%;
+    padding-top:5%;
+  
+    
+    }
+    
+    .name-text:hover{
+        color:black;
+    }
+    
+    .input-body{
+        right:4.5%;
+    }
+    
+    
+
+    
+
+    .toggle-btn{
+    font-size:40px;
+    margin-left:85%;
+    margin-top:-41px;
+    }
+    
+
+
+    input{
+         font-size:20px;
+        padding:2%;       
+    
+    }
+    
+    .edite-delete{
+        margin: 2%;
+         min-height: 50px;
+        text-align:start;
+    border:1px solid white;
+    padding:2.5%;
+    margin-inline:5%;
+    font-size:21px;
+    transition: all 5s ease;
+    animation:linear infinite;
+    }
+    
+    .edite-delete:hover{
+        background-color:white;
+    
+    }
+    
+    .edite-delete:hover{
+        color:black;
+    }
+    
+    
+    .de-ed-btn{
+    display: flex;
+    position:relative;
+    left:75%;
+    bottom:20px;
+    
+    font-size: 12px;
+    }
+    
+    
+    
+    .btn-delete{
+    padding:0.5%;
+    font-size:29px;
+    }
+    
+    .btn-edite{
+        padding:0.5%;
+        font-size:29px;
+    }
+    
+    .remove-btn{
+    border: 1px solid white;
+    margin:15%;
+    padding:1%;
+    font-size: 20px;
+    border-radius:5px;
+
+}
+
+
+.remove-btn:hover{
+background-color: #fff;
+color:black;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
